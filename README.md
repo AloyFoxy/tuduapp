@@ -29,10 +29,3 @@ Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LI
 ✅ **Formato mejorado** - Mejor organización y presentación
 ✅ **Emojis minimalistas** - Solo en títulos principales
 ✅ **Información esencial** - Sin redundancias, solo lo necesario
-
-## **Próximos pasos que necesitarás hacer:**
-
-1. **Crear carpeta `screenshots/`** en la raíz del proyecto
-2. **Tomar capturas** de la app en modo claro y oscuro
-3. **Actualizar el enlace del demo** cuando despliegues la aplicación
-4. **Crear archivo LICENSE** si quieres usar MIT License
