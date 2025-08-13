@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-08-11 10:54-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/TodoForm.jsx:99
+msgid "Add Task"
+msgstr "Add Task"
+
+#: src/App.jsx:145
+msgid "All Tasks"
+msgstr "All Tasks"
+
+#: src/components/TodoItem.jsx:143
+msgid "Cancel"
+msgstr "Cancel"
+
+#: src/components/TodoItem.jsx:53
+msgid "Complete"
+msgstr "Complete"
+
+#: src/App.jsx:146
+msgid "Completed Tasks"
+msgstr "Completed Tasks"
+
+#: src/components/TodoItem.jsx:68
+msgid "Delete"
+msgstr "Delete"
+
+#: src/components/TodoForm.jsx:44
+#: src/components/TodoItem.jsx:120
+msgid "Description"
+msgstr "Description"
+
+#: src/components/TodoItem.jsx:77
+msgid "Edit"
+msgstr "Edit"
+
+#: src/components/TodoItem.jsx:96
+msgid "Editing task"
+msgstr "Editing task"
+
+#: src/components/TodoForm.jsx:10
+msgid "High"
+msgstr "High"
+
+#: src/components/TodoForm.jsx:12
+msgid "Low"
+msgstr "Low"
+
+#: src/components/TodoForm.jsx:11
+msgid "Medium"
+msgstr "Medium"
+
+#: src/components/TodoItem.jsx:100
+msgid "Modify the name and description of your task"
+msgstr "Modify the name and description of your task"
+
+#: src/components/TodoForm.jsx:32
+#: src/components/TodoItem.jsx:107
+msgid "Name"
+msgstr "Name"
+
+#: src/App.jsx:147
+msgid "Pending Tasks"
+msgstr "Pending Tasks"
+
+#: src/App.jsx:41
+msgid "Please fill in all required fields and set a priority"
+msgstr "Please fill in all required fields and set a priority"
+
+#: src/components/TodoForm.jsx:57
+#: src/components/TodoItem.jsx:38
+msgid "Priority"
+msgstr "Priority"
+
+#: src/components/TodoItem.jsx:137
+msgid "Save"
+msgstr "Save"
+
+#: src/components/TodoForm.jsx:72
+msgid "Select Priority"
+msgstr "Select Priority"
+
+#: src/components/ErrorPopUp.jsx:16
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#: src/components/TodoItem.jsx:53
+msgid "Undo"
+msgstr "Undo"
